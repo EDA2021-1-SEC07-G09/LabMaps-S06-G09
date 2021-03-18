@@ -1,3 +1,7 @@
+Juan Jose Ramirez Cala - 202013228 - jj.ramirezc1@uniandes.edu.co
+
+Santiago Pardo Morales - 202013025 - s.pardom@uniandes.edu.co
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
